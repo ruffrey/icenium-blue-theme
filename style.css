@@ -1,0 +1,93 @@
+/* code lines */
+
+div.CodeMirror-lines {
+    background-color: #020312;
+}
+
+/* not sure? */
+
+div.CodeMirror-scroll.cm-s-default {
+    background-color: #000000;
+}
+
+/* html tags */
+
+span.cm-tag {
+    color: #00871B;
+}
+
+span.cm-meta {
+    color: #006915;
+}
+
+/* html attributes */
+
+span.cm-attribute {
+    color: #1E6F87;
+}
+
+/* plain text */
+
+div div pre {
+    color: #d0d0d0;
+}
+
+/* syntax keywords */
+
+span.cm-atom {
+    color: #7CE809;
+}
+
+/* reserved keywords */
+
+span.cm-keyword {
+    color: #7CE809;
+}
+
+/* numbers */
+
+span.cm-number {
+    color: #E8097C;
+}
+
+/* variables */
+
+span.cm-def {
+    color: #3AA1E0;
+}
+/* functions/classes */
+span.cm-variable{
+       color: #3AA1E0;
+}
+span.cm-variable-2{
+    color: #3AA1E0;
+}
+
+/* strings */
+
+span.cm-string {
+    color: #AB7120;
+}
+
+/* properties */
+
+span.cm-property {
+    color: #209E39;
+}
+
+/* comments */
+span.cm-comment{
+    color: #2959C2;
+}
+
+/* The selection color */
+
+.CodeMirror-cursor {
+    border-left: solid 2px #fff;
+}
+
+/* The blinking cursor color */
+
+div.CodeMirror-selected {
+    background: #fff;
+}
